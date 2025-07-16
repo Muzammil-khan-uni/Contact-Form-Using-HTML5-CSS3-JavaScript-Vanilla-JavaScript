@@ -11,17 +11,17 @@
 💼 Task Overview:
 
 I was assigned to build a responsive Contact Form using HTML, CSS, and JavaScript. The form includes:
-<li>
-<ul>Full Name</ul>
+<ul>
+<li>Full Name</li>
 
-<ul>Email Address</ul>
+<li>Email Address</li>
 
-<ul>Subject</ul>
+<li>Subject</li>
 
-<ul>Message</ul>
+<li>Message</li>
 
-<ul>Submit Button</ul>
-</li>
+<li>Submit Button</li>
+</ul>
 
 🎯 Goals Achieved:
 
